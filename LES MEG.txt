@@ -1,0 +1,1 @@
+det er anbefalt å kjøre main.py dersom du skal spille gjennom spillet.
